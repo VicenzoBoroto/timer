@@ -29,7 +29,9 @@ body {
 button {
   padding: 6px 12px;
   border-radius: 10px;
-  background-color: #ffffffff
+  background-color: #ffffffff;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
 }
 
 button:hover {
